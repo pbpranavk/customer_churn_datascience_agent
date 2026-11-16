@@ -1,0 +1,5 @@
+google-adk>=1.0,<3.0
+tabpfn>=9.0,<11.0
+numpy>=1.26,<3
+pandas>=2.2,<3
+scikit-learn>=1.5,<2
